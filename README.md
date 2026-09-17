@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Zejing Wang 👋
 
-<!--
-**zejingw1998/zejingw1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Applied Mathematics at the University of Oslo, interested in scientific computing, machine learning and numerical methods for PDEs.
 
-Here are some ideas to get you started:
+My current academic interests focus on numerical methods for hyperbolic conservation laws, with a particular interest in combining classical numerical methods with deep learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical interests
+
+- Python & PyTorch
+- Machine Learning & Deep Learning
+- Numerical PDEs
+- Computational Fluid Dynamics
+- Natural Language Processing
+- Scientific Computing
+
+## Selected projects
+
+### 🌊 [Hyperbolic PDE Solvers](https://github.com/zejingw1998/Pytorch-Hyperbolic-PDE)
+Numerical experiments for hyperbolic conservation laws using Python and PyTorch, including finite-volume methods, Riemann problems, stability analysis and shock capturing.
+
+### 🚀 [Computational Fluid Dynamics](https://github.com/zejingw1998/CFD-project)
+A 1D Euler-equation solver with Sod shock-tube experiments, exact Riemann-solution comparison and advection tests.
+
+### 🤖 Machine Learning
+Implementations and experiments with regression, regularization, gradient-based optimization, cross-validation and evolutionary algorithms.
+
+### 💬 Natural Language Processing
+Experiments with tokenization, BPE, N-gram language models, text classification and neural-network methods.
+
+## Currently learning
+
+Machine Learning · Deep Learning · NLP · High-Performance Computing
