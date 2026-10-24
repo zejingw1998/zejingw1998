@@ -28,7 +28,7 @@ Coursework and experiments in artificial intelligence and machine learning, incl
 Machine-learning experiments covering polynomial regression, bias–variance analysis, ridge and lasso regression, cross-validation and gradient-based optimization.
 
 ### 💬 [Natural Language Processing](https://github.com/zejingw1998/IN4080-Natural-Language-Processing-NLP-)
-Implementations and experiments in natural language processing, including tokenization, BPE, N-gram language models, Laplace smoothing, text classification and neural-network methods.
+Projects in Natural Language Processing, including tokenization, language models, text classification, and retrieval-augmented generation (RAG) using LLMs, BM25 and semantic search.
 
 ## Currently learning
 
